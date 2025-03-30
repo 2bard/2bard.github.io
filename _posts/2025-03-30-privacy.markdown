@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Privacy policy"
+date:   2025-03-30 22:55:20 +0100
+categories: jekyll update
+---
+**Privacy Policy**
+
+Effective Date: [Insert Date]
+
+[Your App Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
+
+### 1. Information We Collect
+#### a. Information You Provide
+- When you create an account, we may collect your name, email address, and other optional profile information.
+- If you add notes or customize your garden layout, this data is stored to enhance your user experience.
+
+#### b. Automatically Collected Information
+- We may collect usage data such as device type, operating system, and how you interact with the App.
+- We may use cookies or similar technologies to improve performance and user experience.
+
+### 2. How We Use Your Information
+- To provide and personalize the App’s features.
+- To improve user experience and develop new features.
+- To communicate with you about updates, features, or important notices.
+- To comply with legal obligations and protect against fraud.
+
+### 3. Sharing Your Information
+- We do not sell, rent, or share your personal information with third parties for marketing purposes.
+- We may share data with service providers that help us operate and improve the App.
+- If required by law, we may disclose information to comply with legal processes.
+
+### 4. Data Security
+We implement industry-standard security measures to protect your data. However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+### 5. Your Choices
+- You can access and update your profile information in the App settings.
+- You may request deletion of your data by contacting us at [Your Contact Email].
+
+### 6. Children's Privacy
+Our App is not intended for children under 13, and we do not knowingly collect personal data from children.
+
+### 7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the effective date or providing a notice within the App.
+
+### 8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at [Your Contact Email].
+
+
