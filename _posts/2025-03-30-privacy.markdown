@@ -6,9 +6,9 @@ categories: jekyll update
 ---
 **Privacy Policy**
 
-Effective Date: [Insert Date]
+Effective Date: 31 Mar 2025
 
-[Your App Name] ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
+MapMyGarden ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
 
 ### 1. Information We Collect
 #### a. Information You Provide
@@ -44,6 +44,6 @@ Our App is not intended for children under 13, and we do not knowingly collect p
 We may update this Privacy Policy from time to time. We will notify you of significant changes by updating the effective date or providing a notice within the App.
 
 ### 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [Your Contact Email].
+If you have any questions about this Privacy Policy, please contact us at mapmygarden+privacy@gmail.com.
 
 
